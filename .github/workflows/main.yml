@@ -1,9 +1,9 @@
-# Run every day at 2am Pacific
+# Run hourly at minute 52
 on:
   workflow_dispatch:
     inputs:
   schedule:
-    - cron: "0 9 * * *"
+    - cron: "52 * * * *"
 
 jobs:
   run-xform:
