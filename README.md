@@ -1,4 +1,4 @@
-# JHU Transformer
+# WOM Transformer
 
 # Run Locally
 
