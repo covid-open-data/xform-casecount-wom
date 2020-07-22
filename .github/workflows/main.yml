@@ -1,9 +1,9 @@
+# Run every day at 2am Pacific
 on:
   workflow_dispatch:
     inputs:
-# TODO: Uncomment this to activate scheduling of this workflow.
-#  schedule:
-#  - cron: "0 * * * *"
+  schedule:
+    - cron: "0 9 * * *"
 
 jobs:
   run-xform:
