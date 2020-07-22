@@ -5,5 +5,10 @@ source "${GITHUB_WORKSPACE}/.github/scripts/shutils.sh"
 ###############################################################################
 
 # TODO: Uncomment and ddd additional packages needed for your transformer.
+
 #installAptPackages pkg1 pkg2 pkg3
+
+R -e "remotes::install_github('covid-open-data/geoutils', upgrade = FALSE)"
+R -e "install.packages('snakecase')"
+
 exit 0
