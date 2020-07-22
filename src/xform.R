@@ -142,12 +142,14 @@ global <- d %>%
 who <- d %>%
   dplyr::group_by(who_region_code, date) %>%
   dplyr::summarise(cases = sum(cases), deaths = sum(deaths)) %>%
-  dplyr::arrange(who_region_code, date)
+  dplyr::arrange(who_region_code, date) %>%
+  dplyr::filter(who_region_code != "Conveyance" & !is.na(who_region_code))
 
 cont <- d %>%
   dplyr::group_by(continent_code, date) %>%
   dplyr::summarise(cases = sum(cases), deaths = sum(deaths)) %>%
-  dplyr::arrange(continent_code, date)
+  dplyr::arrange(continent_code, date) %>%
+  dplyr::filter(!is.na(continent_code))
 
 admin0 <- dplyr::select(d, admin0_code, date, cases, deaths)
 
