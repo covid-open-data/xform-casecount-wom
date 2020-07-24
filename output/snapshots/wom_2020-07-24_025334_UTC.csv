@@ -68,9 +68,9 @@ Ivory Coast,15001,93,9282
 Czechia,14800,365,9328
 S. Korea,13979,298,12817
 Venezuela,13613,129,7752
+Australia,13595,139,8775
 Denmark,13390,612,12299
 El Salvador,13377,372,7276
-Australia,13302,133,8656
 Costa Rica,13129,80,3448
 Ethiopia,11933,197,5645
 Sudan,11237,708,5835
@@ -154,7 +154,7 @@ Malta,680,9,665
 Réunion,646,3,558
 Botswana,592,1,48
 Syria,584,35,174
-Channel Islands,583,47,529
+Channel Islands,583,47,533
 Tanzania,509,21,183
 Taiwan,455,7,440
 Vietnam,412,NA,365
@@ -170,7 +170,7 @@ Bahamas,274,11,91
 Martinique,262,15,98
 Eritrea,261,NA,189
 Cayman Islands,203,1,202
-Cambodia,198,NA,142
+Cambodia,202,NA,142
 Guadeloupe,195,14,172
 Faeroe Islands,191,NA,188
 Gibraltar,184,NA,180
@@ -178,27 +178,27 @@ Gambia,170,5,58
 Bermuda,153,9,139
 Trinidad and Tobago,141,8,128
 Brunei,141,3,138
-Aruba,117,3,100
+Aruba,117,3,101
 Monaco,114,4,100
 Seychelles,108,NA,27
 Barbados,106,7,94
 Bhutan,92,NA,83
+Turks and Caicos,90,2,26
 Liechtenstein,86,1,81
-Turks and Caicos,82,2,22
 Sint Maarten,81,15,63
 Antigua and Barbuda,76,3,58
 French Polynesia,62,NA,60
 St. Vincent Grenadines,52,NA,37
+Belize,47,2,25
 Saint Martin,46,3,39
 Macao,46,NA,46
-Belize,43,2,23
-Papua New Guinea,30,NA,8
+Papua New Guinea,31,NA,11
 Curaçao,28,1,24
 Fiji,27,NA,18
 Saint Lucia,24,NA,22
 Timor-Leste,24,NA,24
 Grenada,23,NA,23
-New Caledonia,22,NA,21
+New Caledonia,22,NA,22
 Laos,19,NA,19
 Dominica,18,NA,18
 Saint Kitts and Nevis,17,NA,15
@@ -214,11 +214,11 @@ St. Barth,6,NA,6
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,83750,4634,78873
-Total:,4888497,203875,2428025
+Total:,4888509,203875,2428032
 Total:,3545157,129216,2379382
-Total:,3675170,85940,2630614
-Total:,2735017,200507,1636623
+Total:,3675174,85940,2630614
+Total:,2735017,200507,1636627
 Total:,792040,16756,449637
-Total:,14999,155,10276
+Total:,15293,161,10399
 Total:,721,15,651
-Total:,15651601,636464,9535208
+Total:,15651911,636470,9535342
