@@ -64,10 +64,10 @@ Austria,20558,713,18246
 Nepal,18752,48,13754
 Kenya,17975,285,7833
 Cameroon,17110,391,14539
+Venezuela,15988,146,9959
 Costa Rica,15841,115,3824
 Ivory Coast,15655,96,10361
 Czechia,15516,373,11428
-Venezuela,15463,142,9746
 Australia,15302,167,9311
 El Salvador,15035,408,7778
 Ethiopia,14547,228,6386
@@ -85,7 +85,7 @@ Malaysia,8904,124,8601
 DRC,8844,208,5700
 French Guiana,7514,42,6047
 Finland,7398,329,6920
-Haiti,7315,157,4365
+Haiti,7340,158,4365
 Tajikistan,7235,60,6028
 Gabon,7189,49,4682
 Guinea,7055,45,6257
@@ -159,9 +159,9 @@ Tanzania,509,21,183
 Lesotho,505,12,128
 Taiwan,462,7,440
 Vietnam,431,NA,365
+Guyana,389,20,181
 Bahamas,382,11,91
 Burundi,378,1,301
-Guyana,370,20,181
 Comoros,354,7,328
 Myanmar,350,6,292
 Mauritius,344,10,332
@@ -183,7 +183,7 @@ Monaco,116,4,104
 Sint Maarten,114,15,63
 Seychelles,114,NA,39
 Barbados,110,7,94
-Turks and Caicos,97,2,35
+Turks and Caicos,99,2,36
 Bhutan,95,NA,85
 Antigua and Barbuda,86,3,65
 Liechtenstein,86,1,81
@@ -214,11 +214,11 @@ St. Barth,7,NA,6
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,83959,4634,78934
-Total:,5201363,209680,2618998
-Total:,3788572,135605,2541046
+Total:,5201390,209681,2618999
+Total:,3789116,135609,2541259
 Total:,3971360,91173,2873430
 Total:,2800352,201665,1676687
 Total:,864098,18218,510089
 Total:,17032,189,10936
 Total:,721,15,651
-Total:,16643498,656545,10231837
+Total:,16644069,656550,10232051
