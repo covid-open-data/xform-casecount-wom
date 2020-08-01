@@ -85,7 +85,7 @@ DRC,9070,215,6796
 Malaysia,8976,125,8644
 French Guiana,7799,43,6386
 Finland,7432,329,6950
-Haiti,7412,161,4467
+Haiti,7424,161,4606
 Tajikistan,7409,60,6193
 Gabon,7352,49,4943
 Guinea,7308,46,6458
@@ -167,11 +167,11 @@ Comoros,378,7,330
 Myanmar,353,6,296
 Mauritius,344,10,332
 Isle of Man,336,24,312
-Mongolia,291,NA,225
+Mongolia,291,NA,230
 Eritrea,279,NA,225
 Martinique,269,15,98
 Guadeloupe,265,14,179
-Cambodia,234,NA,164
+Cambodia,239,NA,164
 Faeroe Islands,225,NA,189
 Cayman Islands,203,1,202
 Gibraltar,187,NA,181
@@ -191,7 +191,7 @@ Papua New Guinea,72,2,11
 French Polynesia,62,NA,62
 St. Vincent Grenadines,54,NA,44
 Saint Martin,53,3,41
-Belize,48,2,27
+Belize,48,2,30
 Macao,46,NA,46
 Curaçao,29,1,24
 Fiji,27,1,18
@@ -214,11 +214,11 @@ St. Barth,8,NA,6
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,84337,4634,78989
-Total:,5525089,219283,2849703
+Total:,5525101,219283,2849845
 Total:,4113462,143710,2816713
-Total:,4294789,96718,3167305
+Total:,4294794,96718,3167310
 Total:,2872635,203320,1730403
 Total:,931777,19726,583665
 Total:,19023,226,11614
 Total:,721,15,651
-Total:,17757496,682998,11160054
+Total:,17757513,682998,11160201
