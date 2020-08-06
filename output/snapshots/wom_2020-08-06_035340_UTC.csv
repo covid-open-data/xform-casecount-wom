@@ -24,7 +24,7 @@ Canada,118187,8962,102788
 Indonesia,116871,5452,73889
 Philippines,115980,2123,66270
 Qatar,111805,178,108539
-Kazakhstan,94882,1058,67031
+Kazakhstan,95942,1058,68871
 Egypt,94875,4930,47182
 Ecuador,88866,5847,71168
 Bolivia,85141,3385,26437
@@ -44,8 +44,8 @@ Singapore,54254,27,47768
 Guatemala,53509,2072,41199
 Portugal,51848,1740,37565
 Poland,48789,1756,35321
+Honduras,45098,1423,6116
 Nigeria,44890,927,32165
-Honduras,44299,1400,5921
 Bahrain,42514,154,39576
 Japan,41129,1022,28028
 Armenia,39586,770,30850
@@ -87,7 +87,7 @@ French Guiana,8069,47,7075
 Gabon,7787,51,5609
 Tajikistan,7625,61,6399
 Guinea,7575,49,6632
-Haiti,7532,171,4832
+Haiti,7544,171,4832
 Finland,7512,331,6980
 Zambia,7022,176,5667
 Luxembourg,7007,118,5623
@@ -147,14 +147,14 @@ Togo,1001,21,690
 Syria,944,48,296
 Chad,939,75,835
 Andorra,939,52,825
+Jamaica,928,12,745
 Malta,926,9,668
-Jamaica,920,12,745
 Sao Tome and Principe,878,15,795
 Botswana,804,2,63
 Gambia,799,16,115
 Bahamas,751,14,91
 Lesotho,726,21,174
-Vietnam,717,8,381
+Vietnam,717,9,381
 Diamond Princess,712,13,651
 San Marino,699,42,657
 Réunion,670,5,592
@@ -167,7 +167,7 @@ Comoros,388,7,340
 Myanmar,357,6,305
 Mauritius,344,10,334
 Isle of Man,336,24,312
-Mongolia,293,NA,244
+Mongolia,293,NA,260
 Eritrea,282,NA,225
 Guadeloupe,279,14,179
 Martinique,269,15,98
@@ -182,13 +182,13 @@ Sint Maarten,156,16,64
 Papua New Guinea,153,2,44
 Brunei,141,3,138
 Barbados,133,7,100
+Turks and Caicos,129,2,39
 Seychelles,126,NA,124
 Monaco,125,4,105
-Turks and Caicos,116,2,38
 Bhutan,105,NA,93
 Antigua and Barbuda,92,3,76
 Liechtenstein,89,1,85
-Belize,72,2,31
+Belize,86,2,31
 French Polynesia,64,NA,62
 St. Vincent Grenadines,56,NA,46
 Saint Martin,53,3,41
@@ -214,11 +214,11 @@ St. Barth,9,NA,6
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,84528,4634,79057
-Total:,5848637,227691,3108024
+Total:,5849483,227714,3108220
 Total:,4455820,152789,3072882
-Total:,4685932,103854,3511834
+Total:,4686992,103855,3513690
 Total:,2963997,204884,1780348
 Total:,997602,21683,677208
 Total:,21725,280,12611
 Total:,721,15,651
-Total:,18974434,711196,12163558
+Total:,18976340,711220,12165610
