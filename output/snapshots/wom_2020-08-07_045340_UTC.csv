@@ -1,7 +1,7 @@
 region,cases,deaths,recovered
 USA,5032179,162804,2576668
 Brazil,2917562,98644,2047660
-India,2025409,41638,1377384
+India,2027074,41638,1378105
 Russia,871894,14606,676357
 South Africa,538184,9604,387316
 Mexico,462690,50517,308848
@@ -109,7 +109,7 @@ Nicaragua,3902,123,2913
 Hong Kong,3850,46,2458
 Congo,3546,58,1589
 Montenegro,3480,60,2178
-Thailand,3330,58,3148
+Thailand,3345,58,3148
 Somalia,3227,93,1728
 Mayotte,3042,39,2738
 Eswatini,2968,55,1476
@@ -153,7 +153,7 @@ Gambia,935,16,136
 Sao Tome and Principe,878,15,797
 Botswana,804,2,63
 Bahamas,761,14,91
-Vietnam,747,10,392
+Vietnam,750,10,392
 Lesotho,742,23,175
 Diamond Princess,712,13,651
 San Marino,699,42,657
@@ -173,7 +173,7 @@ Guadeloupe,279,14,179
 Martinique,276,15,98
 Faeroe Islands,266,NA,192
 Aruba,263,3,114
-Cambodia,243,NA,210
+Cambodia,243,NA,214
 Trinidad and Tobago,210,8,135
 Cayman Islands,203,1,202
 Gibraltar,190,NA,184
@@ -185,10 +185,10 @@ Turks and Caicos,141,2,39
 Barbados,133,7,100
 Seychelles,126,NA,124
 Monaco,125,4,105
-Bhutan,105,NA,93
+Belize,114,2,32
+Bhutan,108,NA,96
 Antigua and Barbuda,92,3,76
 Liechtenstein,89,1,85
-Belize,86,2,31
 French Polynesia,64,NA,62
 St. Vincent Grenadines,56,NA,46
 Saint Martin,53,3,41
@@ -214,11 +214,11 @@ St. Barth,9,NA,6
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,84565,4634,79088
-Total:,5919957,229879,3151826
+Total:,5919985,229879,3151827
 Total:,4544254,154892,3116474
-Total:,4775339,105261,3589067
+Total:,4777025,105261,3589795
 Total:,2983434,205234,1793190
 Total:,1011872,22114,693620
 Total:,22115,292,12826
 Total:,721,15,651
-Total:,19257692,717687,12357654
+Total:,19259406,717687,12358383
