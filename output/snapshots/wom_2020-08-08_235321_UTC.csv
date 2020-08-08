@@ -1,6 +1,6 @@
 region,cases,deaths,recovered
-USA,5146592,165029,2634237
-Brazil,3012412,100477,2094293
+USA,5148374,165041,2635140
+Brazil,3013369,100543,2094293
 India,2152020,43453,1479804
 Russia,882347,14854,690207
 South Africa,553188,10210,404568
@@ -90,9 +90,9 @@ Guinea,7875,50,6828
 Tajikistan,7706,62,6484
 Haiti,7599,177,4893
 Finland,7568,331,6980
-Luxembourg,7113,119,5848
+Luxembourg,7169,120,5848
+Paraguay,6705,72,5181
 Mauritania,6510,157,5527
-Paraguay,6508,69,5123
 Albania,6275,193,3268
 Lebanon,6223,78,2043
 Croatia,5543,157,4817
@@ -107,26 +107,26 @@ Malawi,4624,143,2329
 Zimbabwe,4575,102,1416
 Hong Kong,4008,47,2755
 Nicaragua,3902,123,2913
-Congo,3637,58,1589
-Montenegro,3549,61,2296
+Congo,3664,58,1589
+Montenegro,3588,62,2407
 Thailand,3348,58,3150
 Somalia,3227,93,1728
 Eswatini,3128,56,1565
 Mayotte,3068,39,2835
 Cuba,2888,88,2442
 Sri Lanka,2841,11,2576
+Cabo Verde,2835,32,2073
 Namibia,2802,16,575
-Cabo Verde,2780,29,2042
 Slovakia,2566,31,1861
 Mali,2565,125,1960
 South Sudan,2463,47,1175
+Suriname,2306,29,1558
 Slovenia,2247,126,1927
 Mozambique,2241,16,832
 Lithuania,2231,81,1668
-Suriname,2203,29,1505
 Estonia,2147,63,1961
 Rwanda,2134,6,1300
-Guinea-Bissau,2032,27,944
+Guinea-Bissau,2052,29,944
 Iceland,1955,10,1833
 Benin,1936,38,1600
 Sierra Leone,1895,68,1442
@@ -134,7 +134,7 @@ Yemen,1797,512,910
 Tunisia,1678,51,1259
 Angola,1572,70,564
 New Zealand,1569,22,1524
-Uruguay,1325,37,1095
+Uruguay,1335,37,1112
 Latvia,1288,32,1070
 Uganda,1267,6,1115
 Jordan,1246,11,1178
@@ -150,9 +150,9 @@ Malta,1035,9,675
 Jamaica,987,13,745
 Andorra,955,52,839
 Chad,942,76,839
-Sao Tome and Principe,878,15,799
-Bahamas,830,14,95
-Vietnam,810,10,395
+Sao Tome and Principe,878,15,800
+Bahamas,878,14,99
+Vietnam,812,10,395
 Botswana,804,2,63
 Lesotho,742,23,175
 Diamond Princess,712,13,651
@@ -173,8 +173,8 @@ Faeroe Islands,295,NA,193
 Mongolia,293,NA,260
 Guadeloupe,290,14,186
 Eritrea,285,NA,245
+Trinidad and Tobago,275,8,135
 Cambodia,246,NA,215
-Trinidad and Tobago,243,8,135
 Cayman Islands,203,1,202
 Gibraltar,197,NA,184
 Papua New Guinea,188,3,53
@@ -184,7 +184,7 @@ Bermuda,157,9,144
 Belize,146,2,32
 Brunei,142,3,138
 Barbados,138,7,108
-Monaco,128,4,105
+Monaco,131,4,112
 Seychelles,126,NA,125
 Bhutan,108,NA,96
 Antigua and Barbuda,92,3,76
@@ -203,7 +203,7 @@ Laos,20,NA,19
 Dominica,18,NA,18
 Saint Kitts and Nevis,17,NA,16
 Greenland,14,NA,14
-Montserrat,13,1,13
+Montserrat,13,1,12
 Caribbean Netherlands,13,NA,7
 Falkland Islands,13,NA,13
 Vatican City,12,NA,12
@@ -214,11 +214,11 @@ St. Barth,9,NA,6
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,84596,4634,79123
-Total:,6050848,233125,3220493
-Total:,4690490,158053,3193231
-Total:,4954489,108058,3736288
-Total:,3022660,205942,1816391
-Total:,1039423,22956,723625
+Total:,6052710,233137,3221399
+Total:,4691757,158122,3193359
+Total:,4954491,108058,3736288
+Total:,3022758,205944,1816509
+Total:,1039525,22961,723657
 Total:,22574,304,12999
 Total:,721,15,651
-Total:,19781205,728453,12703678
+Total:,19784536,728541,12704862
