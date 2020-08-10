@@ -1,6 +1,6 @@
 region,cases,deaths,recovered
-USA,5244680,166077,2699484
-Brazil,3057470,101752,2118460
+USA,5247360,166109,2706684
+Brazil,3057470,101857,2163812
 India,2267153,45353,1581640
 Russia,892654,15001,696681
 South Africa,563598,10621,417200
@@ -22,7 +22,7 @@ France,202775,30340,82836
 Iraq,153599,5464,109790
 Philippines,136638,2294,68159
 Indonesia,127083,5765,82236
-Canada,119744,8982,105996
+Canada,120132,8987,106355
 Qatar,113262,188,109993
 Kazakhstan,99442,1058,72523
 Egypt,95666,5035,53779
@@ -33,7 +33,7 @@ Sweden,82972,5766,N/A
 Ukraine,81957,1922,44359
 Oman,81787,521,76124
 Dominican Republic,80499,1328,44910
-Panama,74492,1639,48748
+Panama,75394,1664,49510
 Belgium,74152,9872,17780
 Kuwait,72400,482,64028
 Belarus,68947,589,64991
@@ -97,7 +97,7 @@ Mauritania,6555,157,5570
 Albania,6536,200,3379
 Greece,5749,213,3804
 Croatia,5649,158,4906
-Libya,5451,119,701
+Libya,5541,120,710
 Djibouti,5347,59,5120
 Maldives,5157,19,2835
 Equatorial Guinea,4821,83,2182
@@ -107,10 +107,10 @@ Malawi,4674,146,2430
 CAR,4641,60,1721
 Hong Kong,4149,55,2916
 Nicaragua,3902,123,2913
+Montenegro,3696,68,2521
 Congo,3664,58,1589
-Montenegro,3618,64,2452
 Thailand,3351,58,3160
-Eswatini,3236,58,1607
+Eswatini,3309,61,1634
 Somalia,3227,93,1728
 Namibia,3101,19,715
 Mayotte,3068,39,2835
@@ -119,9 +119,9 @@ Cabo Verde,2883,32,2128
 Sri Lanka,2871,11,2593
 Slovakia,2599,31,1866
 Mali,2573,125,1969
+Suriname,2489,30,1674
 South Sudan,2470,47,1175
 Mozambique,2411,16,860
-Suriname,2391,29,1635
 Lithuania,2265,81,1670
 Slovenia,2255,128,1960
 Estonia,2158,63,1962
@@ -144,23 +144,23 @@ Georgia,1250,17,1010
 Liberia,1240,79,725
 Gambia,1235,23,221
 Burkina Faso,1204,54,984
-Niger,1158,69,1057
+Niger,1158,69,1062
 Malta,1112,9,688
 Togo,1067,25,729
 Jamaica,1023,14,745
 Andorra,963,52,839
 Chad,945,76,843
-Bahamas,898,15,104
+Bahamas,945,15,113
 Sao Tome and Principe,878,15,800
 Vietnam,847,15,399
 Botswana,804,2,63
-Lesotho,742,23,175
+Lesotho,781,24,175
 Diamond Princess,712,13,651
 San Marino,699,42,657
 Réunion,690,5,631
+Aruba,630,3,114
 Channel Islands,597,47,533
 Guyana,568,22,189
-Aruba,563,3,114
 Tanzania,509,21,183
 Taiwan,480,7,443
 Burundi,408,1,315
@@ -173,7 +173,7 @@ Guadeloupe,317,14,186
 Faeroe Islands,306,NA,215
 Mongolia,293,NA,263
 Eritrea,285,NA,245
-Trinidad and Tobago,280,8,138
+Trinidad and Tobago,281,8,138
 Cambodia,251,NA,219
 Turks and Caicos,216,2,39
 Papua New Guinea,214,3,53
@@ -193,7 +193,7 @@ Saint Martin,78,3,44
 French Polynesia,69,NA,62
 St. Vincent Grenadines,57,NA,52
 Macao,46,NA,46
-Curaçao,31,1,30
+Curaçao,32,1,30
 Fiji,27,1,18
 Saint Lucia,25,NA,24
 Timor-Leste,25,NA,24
@@ -214,11 +214,11 @@ British Virgin Islands,9,1,7
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,84668,4634,79232
-Total:,6168350,235359,3304021
-Total:,4792101,160888,3257075
+Total:,6172436,235421,3312351
+Total:,4792199,160994,3302466
 Total:,5120861,111006,3877972
-Total:,3064166,206394,1836684
-Total:,1060246,23633,747342
+Total:,3064244,206398,1836753
+Total:,1060448,23638,747383
 Total:,23309,340,13557
 Total:,721,15,651
-Total:,20229754,737635,13037302
+Total:,20234218,737812,13091133
