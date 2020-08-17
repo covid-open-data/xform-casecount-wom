@@ -24,7 +24,7 @@ Philippines,161253,2665,112586
 Indonesia,139549,6150,93103
 Canada,122087,9026,108484
 Qatar,115080,193,111794
-Kazakhstan,102696,1269,81558
+Kazakhstan,103033,1269,81558
 Ecuador,101542,6070,87022
 Bolivia,100344,4058,36491
 Egypt,96475,5160,59743
@@ -34,7 +34,7 @@ Dominican Republic,86309,1453,52905
 Sweden,84294,5783,N/A
 Oman,83086,572,77680
 Panama,81940,1767,55001
-Belgium,77869,9935,17981
+Belgium,78323,9939,17994
 Kuwait,76205,501,68135
 Romania,70461,2991,32587
 Belarus,69516,610,67072
@@ -89,9 +89,9 @@ Lebanon,8881,103,2724
 French Guiana,8588,53,7893
 Guinea,8482,51,7364
 Gabon,8225,51,6277
+Libya,8172,153,933
 Tajikistan,8065,64,6855
 Haiti,7879,196,5235
-Libya,7738,145,894
 Finland,7731,333,7050
 Luxembourg,7458,123,6500
 Albania,7380,228,3794
@@ -152,7 +152,7 @@ Togo,1147,27,843
 Jamaica,1113,14,764
 Aruba,1102,4,200
 Andorra,989,53,863
-Vietnam,962,24,456
+Vietnam,964,24,456
 Chad,956,76,865
 Lesotho,903,25,271
 Sao Tome and Principe,885,15,818
@@ -174,7 +174,7 @@ Mauritius,346,10,334
 Isle of Man,336,24,312
 Martinique,336,16,98
 Papua New Guinea,323,3,110
-Sint Maarten,300,17,107
+Sint Maarten,317,17,107
 Turks and Caicos,298,2,55
 Mongolia,298,NA,276
 Eritrea,285,NA,248
@@ -189,7 +189,7 @@ Brunei,142,3,138
 Bhutan,138,NA,102
 Seychelles,127,NA,126
 Saint Martin,109,4,49
-Antigua and Barbuda,93,3,83
+Antigua and Barbuda,93,3,88
 Liechtenstein,91,1,87
 St. Vincent Grenadines,57,NA,55
 Macao,46,NA,46
@@ -214,11 +214,11 @@ British Virgin Islands,9,1,7
 Saint Pierre Miquelon,4,NA,1
 Anguilla,3,NA,3
 China,84849,4634,79603
-Total:,6565234,247521,3585501
+Total:,6565251,247521,3585506
 Total:,5284188,176120,3819527
-Total:,5659991,120148,4387798
-Total:,3165263,203124,1910554
-Total:,1122708,25670,838413
+Total:,5660330,120148,4387798
+Total:,3165717,203128,1910567
+Total:,1123142,25678,838452
 Total:,25458,422,15827
 Total:,721,15,651
-Total:,21823563,773020,14558271
+Total:,21824807,773032,14558328
