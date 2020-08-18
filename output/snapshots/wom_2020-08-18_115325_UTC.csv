@@ -1,5 +1,5 @@
 region,cases,deaths,recovered
-USA,5612230,173761,2974780
+USA,5613183,173772,2974780
 Brazil,3363235,108654,2478494
 India,2706450,51955,1978747
 Russia,932493,15872,742628
@@ -119,7 +119,7 @@ Mayotte,3160,39,2964
 Suriname,3077,48,2138
 Slovakia,2922,31,1980
 Mozambique,2914,19,1196
-Sri Lanka,2900,11,2676
+Sri Lanka,2900,11,2755
 Mali,2640,125,1987
 Rwanda,2540,8,1661
 South Sudan,2490,47,1175
@@ -152,14 +152,14 @@ Togo,1154,27,858
 Jamaica,1129,14,764
 Aruba,1121,4,212
 Andorra,1005,53,869
-Vietnam,983,25,467
+Vietnam,989,25,520
 Chad,959,76,865
 Lesotho,946,30,271
 Sao Tome and Principe,885,15,821
 Réunion,880,5,657
 Diamond Princess,712,13,651
 Guyana,709,23,349
-San Marino,699,42,657
+San Marino,702,42,657
 Channel Islands,609,47,545
 Trinidad and Tobago,588,12,140
 Guadeloupe,510,14,289
@@ -208,17 +208,17 @@ Montserrat,13,1,12
 Caribbean Netherlands,13,NA,7
 Falkland Islands,13,NA,13
 Vatican City,12,NA,12
+British Virgin Islands,11,1,8
 Western Sahara,10,1,8
 MS Zaandam,9,2,NA
-British Virgin Islands,9,1,7
 Saint Pierre Miquelon,5,NA,1
 Anguilla,3,NA,3
 China,84871,4634,79642
-Total:,6619074,248528,3646096
+Total:,6620029,248539,3646097
 Total:,5329805,177637,3895037
-Total:,5758530,121898,4480211
-Total:,3212462,203603,1925387
+Total:,5758536,121898,4480343
+Total:,3212465,203603,1925387
 Total:,1132367,25946,849939
 Total:,26011,464,16679
 Total:,721,15,651
-Total:,22078970,778091,14814000
+Total:,22079934,778102,14814133
