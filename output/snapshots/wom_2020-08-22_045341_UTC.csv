@@ -1,7 +1,7 @@
 region,cases,deaths,recovered
 USA,5796727,179200,3127418
 Brazil,3536488,113454,2670755
-India,2973368,55928,2220799
+India,2975701,55928,2222577
 Russia,946976,16189,761330
 South Africa,603338,12843,500102
 Peru,576067,27245,384908
@@ -114,7 +114,7 @@ Congo,3850,77,1625
 Cuba,3582,89,2951
 Suriname,3460,56,2498
 Cabo Verde,3412,37,2498
-Thailand,3390,58,3219
+Thailand,3390,58,3220
 Somalia,3265,93,2396
 Mayotte,3237,39,2964
 Slovakia,3225,33,2045
@@ -144,10 +144,10 @@ Uruguay,1516,42,1249
 Aruba,1464,6,415
 Cyprus,1406,20,878
 Georgia,1385,17,1128
+Jamaica,1346,16,788
 Latvia,1330,33,1093
 Botswana,1308,3,136
 Burkina Faso,1297,55,1034
-Jamaica,1290,15,788
 Liberia,1285,82,803
 Togo,1239,27,891
 Niger,1172,69,1083
@@ -172,10 +172,10 @@ Comoros,417,7,396
 Faeroe Islands,384,NA,300
 Papua New Guinea,361,4,198
 Sint Maarten,353,17,146
+Turks and Caicos,347,2,102
 Mauritius,346,10,334
 Isle of Man,336,24,312
 Martinique,336,16,98
-Turks and Caicos,334,2,102
 Eritrea,306,NA,274
 French Polynesia,298,NA,148
 Mongolia,298,NA,288
@@ -186,7 +186,7 @@ Saint Martin,176,5,52
 Bermuda,167,9,147
 Barbados,157,7,124
 Monaco,154,4,116
-Bhutan,153,NA,108
+Bhutan,154,NA,110
 Brunei,143,3,139
 Seychelles,132,NA,126
 Liechtenstein,99,1,88
@@ -214,11 +214,11 @@ MS Zaandam,9,2,NA
 Saint Pierre Miquelon,5,NA,1
 Anguilla,3,NA,3
 China,84939,4634,79851
-Total:,6846484,256977,3833269
+Total:,6846553,256978,3833269
 Total:,5636823,186016,4188934
-Total:,6119782,127484,4807079
+Total:,6122116,127484,4808860
 Total:,3314218,204822,1968851
 Total:,1172802,27374,892304
 Total:,26983,512,20386
 Total:,721,15,651
-Total:,23117813,803200,15711474
+Total:,23120216,803201,15713255
