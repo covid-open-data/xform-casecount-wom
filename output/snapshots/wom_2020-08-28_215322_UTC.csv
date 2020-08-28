@@ -1,10 +1,10 @@
 region,cases,deaths,recovered
-USA,6086099,185692,3362832
-Brazil,3772945,118988,2947250
+USA,6089000,185713,3367426
+Brazil,3812605,119571,2947250
 India,3461240,62713,2647538
 Russia,980405,16914,798466
 Peru,621997,28277,429662
-South Africa,618286,13628,531338
+South Africa,620132,13743,533935
 Colombia,582022,18468,417793
 Mexico,579914,62594,400479
 Spain,455621,29011,N/A
@@ -29,7 +29,7 @@ Bolivia,113129,4791,52521
 Ecuador,112141,6504,95311
 Israel,112000,894,91051
 Kazakhstan,105408,1523,95253
-Egypt,98062,5342,69612
+Egypt,98285,5362,70419
 Dominican Republic,92964,1630,64347
 Panama,89982,1948,63996
 Oman,85005,650,79608
@@ -75,7 +75,7 @@ Cameroon,19142,411,17651
 S. Korea,19077,316,14551
 Ivory Coast,17702,115,16139
 Denmark,16700,624,14877
-Bulgaria,15908,594,11044
+Bulgaria,16065,603,11231
 Lebanon,15613,148,4260
 Paraguay,15290,265,8348
 Madagascar,14696,187,13709
@@ -114,8 +114,8 @@ Congo,3979,78,1742
 Cuba,3866,92,3222
 Suriname,3793,66,2893
 Cabo Verde,3745,38,2807
+Rwanda,3742,16,1866
 Slovakia,3728,33,2225
-Rwanda,3672,15,1863
 Mozambique,3651,21,1968
 Thailand,3410,58,3237
 Tunisia,3323,73,1504
@@ -149,18 +149,18 @@ Réunion,1487,6,692
 Cyprus,1481,20,935
 Georgia,1455,19,1196
 Latvia,1375,34,1163
+Togo,1365,27,981
 Burkina Faso,1352,55,1058
-Togo,1341,27,968
 Liberia,1298,82,832
+Guyana,1180,35,633
 Niger,1173,69,1084
-Guyana,1140,32,616
+Guadeloupe,1145,16,336
 Andorra,1124,53,902
 Lesotho,1051,31,526
 Vietnam,1038,30,663
 Chad,1008,77,878
-Guadeloupe,935,15,289
 Sao Tome and Principe,894,15,846
-Belize,818,12,54
+Belize,870,12,93
 Diamond Princess,712,13,651
 San Marino,710,42,658
 Myanmar,643,6,349
@@ -181,18 +181,18 @@ Eritrea,317,NA,284
 Mongolia,301,NA,291
 Gibraltar,274,NA,221
 Cambodia,273,NA,265
+Saint Martin,213,5,79
 Cayman Islands,205,1,202
-Saint Martin,198,5,52
 Bhutan,184,NA,119
 Bermuda,168,9,151
-Barbados,165,7,140
+Barbados,166,7,141
 Brunei,144,3,139
 Seychelles,136,NA,127
 Monaco,125,1,86
 Liechtenstein,106,1,96
 Antigua and Barbuda,94,3,89
 St. Vincent Grenadines,60,NA,57
-Curaçao,55,1,35
+Curaçao,57,1,35
 Macao,46,NA,46
 Fiji,28,2,23
 Timor-Leste,27,NA,25
@@ -202,7 +202,7 @@ Grenada,24,NA,24
 New Caledonia,23,NA,23
 Laos,22,NA,21
 Dominica,20,NA,18
-St. Barth,17,NA,9
+St. Barth,18,NA,13
 Saint Kitts and Nevis,17,NA,17
 Caribbean Netherlands,14,NA,7
 Greenland,14,NA,14
@@ -214,11 +214,11 @@ MS Zaandam,9,2,NA
 Saint Pierre Miquelon,5,NA,1
 Anguilla,3,NA,3
 China,85013,4634,80091
-Total:,7198751,267209,4119436
-Total:,6062205,197111,4658090
+Total:,7201933,267231,4124148
+Total:,6101905,197697,4658107
 Total:,6783852,138130,5411575
-Total:,3510739,206919,2043814
-Total:,1230573,29003,960984
+Total:,3510896,206928,2044001
+Total:,1232736,29139,964404
 Total:,28081,612,22674
 Total:,721,15,651
-Total:,24814922,838999,17217224
+Total:,24860124,839752,17225560
