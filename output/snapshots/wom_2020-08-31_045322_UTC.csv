@@ -1,7 +1,7 @@
 region,cases,deaths,recovered
 USA,6173236,187224,3425723
 Brazil,3862311,120896,3031559
-India,3619169,64617,2772928
+India,3621245,64617,2774801
 Russia,990326,17093,806982
 Peru,647166,28788,455457
 South Africa,625056,14028,538604
@@ -14,7 +14,7 @@ Iran,373570,21462,321421
 UK,334467,41499,N/A
 Saudi Arabia,314821,3870,289667
 Bangladesh,310822,4248,201907
-Pakistan,295636,6288,280547
+Pakistan,295849,6294,280682
 France,277943,30606,86177
 Turkey,268546,6326,243839
 Italy,268218,35477,208536
@@ -56,7 +56,7 @@ Algeria,44146,1501,30978
 Kyrgyzstan,43820,1058,38198
 Armenia,43750,877,37650
 Switzerland,42014,2005,35800
-Uzbekistan,41424,313,38655
+Uzbekistan,41528,315,38819
 Costa Rica,39699,418,15737
 Nepal,38561,221,20822
 Afghanistan,38162,1402,29089
@@ -118,7 +118,7 @@ Slovakia,3876,33,2278
 Cabo Verde,3852,40,2867
 Mozambique,3821,23,2100
 Tunisia,3685,76,1562
-Thailand,3411,58,3252
+Thailand,3412,58,3252
 Somalia,3310,98,2481
 Mayotte,3301,40,2964
 Sri Lanka,3012,12,2860
@@ -131,10 +131,10 @@ Syria,2703,109,614
 Angola,2624,107,1063
 South Sudan,2519,47,1290
 Estonia,2373,64,2088
+Jamaica,2357,21,890
 Guinea-Bissau,2205,34,1127
 Bahamas,2167,50,782
 Benin,2145,40,1738
-Jamaica,2113,20,890
 Iceland,2105,10,1990
 Sierra Leone,2022,70,1594
 Aruba,1997,10,765
@@ -170,7 +170,7 @@ Tanzania,509,21,183
 Turks and Caicos,505,3,148
 Taiwan,488,7,462
 French Polynesia,482,NA,202
-Sint Maarten,460,17,179
+Sint Maarten,463,17,179
 Papua New Guinea,459,5,232
 Burundi,445,1,357
 Comoros,423,7,399
@@ -181,9 +181,9 @@ Eritrea,318,NA,284
 Mongolia,301,NA,295
 Gibraltar,285,NA,228
 Cambodia,273,NA,265
+Bhutan,224,NA,140
 Saint Martin,213,5,79
 Cayman Islands,205,1,202
-Bhutan,195,NA,135
 Barbados,173,7,145
 Bermuda,169,9,153
 Brunei,144,3,139
@@ -191,7 +191,7 @@ Seychelles,136,NA,127
 Monaco,131,1,89
 Liechtenstein,107,1,97
 Antigua and Barbuda,94,3,91
-Curaçao,67,1,35
+Curaçao,68,1,35
 St. Vincent Grenadines,60,NA,57
 British Virgin Islands,47,1,8
 Macao,46,NA,46
@@ -214,11 +214,11 @@ MS Zaandam,9,2,NA
 Saint Pierre Miquelon,5,NA,4
 Anguilla,3,NA,3
 China,85048,4634,80177
-Total:,7312261,270530,4203125
+Total:,7312509,270531,4203125
 Total:,6244321,201164,4834353
-Total:,6992785,141168,5599781
+Total:,6995208,141176,5601958
 Total:,3555640,207400,2065754
 Total:,1250375,29633,979996
 Total:,28476,681,23181
 Total:,721,15,651
-Total:,25384579,850591,17706841
+Total:,25387250,850600,17709018
