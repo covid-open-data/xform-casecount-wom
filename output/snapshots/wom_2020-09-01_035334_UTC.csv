@@ -44,7 +44,7 @@ UAE,70231,384,60931
 Japan,67865,1279,56802
 Poland,67372,2039,46638
 Morocco,62590,1141,47595
-Honduras,60174,1858,10242
+Honduras,61014,1873,10396
 Portugal,58012,1822,41961
 Singapore,56812,27,55658
 Nigeria,54008,1013,41638
@@ -132,8 +132,8 @@ Angola,2654,108,1071
 South Sudan,2527,47,1290
 Jamaica,2459,21,890
 Estonia,2375,64,2088
+Bahamas,2217,50,801
 Guinea-Bissau,2205,34,1127
-Bahamas,2167,50,782
 Benin,2145,40,1738
 Iceland,2107,10,1997
 Jordan,2034,15,1508
@@ -168,9 +168,9 @@ Channel Islands,625,48,545
 Martinique,615,16,98
 French Polynesia,573,NA,205
 Tanzania,509,21,183
-Turks and Caicos,507,3,200
+Turks and Caicos,508,4,200
 Taiwan,488,7,462
-Sint Maarten,463,17,179
+Sint Maarten,476,17,200
 Papua New Guinea,459,5,232
 Burundi,445,1,357
 Comoros,423,7,399
@@ -178,7 +178,7 @@ Faeroe Islands,411,NA,374
 Mauritius,356,10,335
 Isle of Man,336,24,312
 Eritrea,319,NA,284
-Mongolia,301,NA,295
+Mongolia,304,NA,295
 Gibraltar,288,NA,232
 Cambodia,274,NA,266
 Bhutan,224,NA,140
@@ -214,11 +214,11 @@ MS Zaandam,9,2,NA
 Saint Pierre Miquelon,5,NA,4
 Anguilla,3,NA,3
 China,85058,4634,80208
-Total:,7359455,271387,4241272
+Total:,7360359,271403,4241466
 Total:,6318385,202579,4928156
-Total:,7086499,142482,5684693
+Total:,7086502,142482,5684693
 Total:,3582164,207736,2073379
 Total:,1257316,29862,987398
 Total:,28654,686,23431
 Total:,721,15,651
-Total:,25633194,854747,17938980
+Total:,25634101,854763,17939174
