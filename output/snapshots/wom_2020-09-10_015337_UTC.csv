@@ -1,11 +1,11 @@
 region,cases,deaths,recovered
-USA,6549201,195211,3845901
+USA,6549475,195239,3846095
 India,4462965,75091,3469084
 Brazil,4199332,128653,3453336
 Russia,1041007,18135,856458
 Peru,702776,30236,536959
 Colombia,686856,22053,552885
-Mexico,642860,68484,451159
+Mexico,647507,69095,454982
 South Africa,642431,15168,569935
 Spain,543379,29628,N/A
 Argentina,512293,10658,382490
@@ -73,7 +73,7 @@ Australia,26465,781,22863
 Paraguay,25026,474,12309
 Bosnia and Herzegovina,22258,675,15208
 Lebanon,21877,212,7024
-S. Korea,21588,344,17023
+S. Korea,21743,346,17360
 Libya,20462,324,2329
 Cameroon,19848,415,18448
 Ivory Coast,18815,119,17770
@@ -120,10 +120,10 @@ Cuba,4459,104,3727
 Suriname,4447,92,3622
 Uganda,4101,46,1876
 Thailand,3447,58,3286
+Jamaica,3437,38,1019
 Mayotte,3374,40,2964
 Somalia,3371,97,2738
 Syria,3351,143,780
-Jamaica,3323,36,992
 Slovenia,3312,135,2587
 Gambia,3293,99,1460
 Lithuania,3163,86,2008
@@ -146,7 +146,7 @@ Botswana,2126,9,493
 Sierra Leone,2067,72,1622
 Yemen,1999,576,1209
 Myanmar,1889,12,553
-New Zealand,1788,24,1639
+New Zealand,1792,24,1648
 Georgia,1773,19,1325
 Uruguay,1741,45,1478
 Guyana,1703,48,1045
@@ -170,7 +170,7 @@ Channel Islands,631,48,575
 Turks and Caicos,614,5,264
 Sint Maarten,527,19,321
 Tanzania,509,21,183
-Papua New Guinea,503,5,232
+Papua New Guinea,504,5,232
 Taiwan,495,7,475
 Burundi,466,1,374
 Comoros,456,7,415
@@ -181,7 +181,7 @@ Isle of Man,337,24,312
 Gibraltar,322,NA,277
 Mongolia,310,NA,296
 Cambodia,274,NA,273
-Saint Martin,239,6,79
+Saint Martin,256,6,107
 Bhutan,234,NA,153
 Cayman Islands,205,1,204
 Barbados,180,7,156
@@ -203,7 +203,7 @@ Grenada,24,NA,24
 Dominica,22,NA,18
 Laos,22,NA,21
 Caribbean Netherlands,21,NA,7
-St. Barth,18,NA,13
+St. Barth,21,NA,13
 Saint Kitts and Nevis,17,NA,17
 Greenland,14,NA,14
 Montserrat,13,1,12
@@ -213,12 +213,12 @@ Western Sahara,10,1,8
 MS Zaandam,9,2,NA
 Saint Pierre Miquelon,9,NA,5
 Anguilla,3,NA,3
-China,85146,4634,80347
-Total:,7784992,283849,4699064
-Total:,8100502,157216,6540368
+China,85153,4634,80358
+Total:,7790047,284490,4703136
+Total:,8100664,157218,6540716
 Total:,6861857,222273,5564336
 Total:,3908608,211149,2198140
 Total:,1328263,31962,1063653
-Total:,29609,812,25311
+Total:,29614,812,25320
 Total:,721,15,651
-Total:,28014552,907276,20091523
+Total:,28019774,907919,20095952
