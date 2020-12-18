@@ -1,9 +1,9 @@
-# Run hourly at minute 52
+# Run hourly at minute 52 (currently turned off)
 on:
   workflow_dispatch:
     inputs:
   schedule:
-    - cron: "52 * * * *"
+    - cron: ""
 
 jobs:
   run-xform:
